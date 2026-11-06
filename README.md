@@ -1,3 +1,6 @@
+<img width="1911" height="930" alt="image" src="https://github.com/user-attachments/assets/b4d031a3-daae-41f2-841d-9eeeba67e5f6" />
+
+View app at : http://creditriskprediction-vwzidshdx3cmtu3a53euue.streamlit.app/
 # AI-Powered Credit Risk & Loan Default Prediction
 
 An end-to-end ML portfolio project to estimate loan default risk, compare baseline and tree-based models, inspect classification metrics, and explain predictions.
