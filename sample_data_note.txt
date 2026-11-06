@@ -1,0 +1,2 @@
+The app generates synthetic data in memory for a reproducible demo. No real customer records are included.
+For a stronger portfolio version, use a reputable public dataset with a clear license and document its source.
